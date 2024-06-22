@@ -22,7 +22,7 @@
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-## quotes to inspire us
+## Quotes to inspire us
 
 Robbins, A. (n.d.) 'The best way to get a better answer is to start asking a better question.'
 
