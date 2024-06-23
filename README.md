@@ -22,7 +22,7 @@
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-![snake gif](https://github.com/your-user-name/baldassi/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/baldassi/baldassi/blob/output/github-contribution-grid-snake.gif)
 
 ## Quotes to inspire us
 
